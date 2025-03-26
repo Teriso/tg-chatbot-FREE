@@ -8,7 +8,7 @@
    ![image](https://github.com/user-attachments/assets/a0213756-7620-44a7-bfbe-9c1edccd1792)
 
 3. Загрузите последнюю версию. или клонируйте репозиторий
-git clone https://github.com/AleXDE54/g4f_telegram_aibot.git
+git clone https://github.com/Teriso/tg-chatbot-FREE.git
 
 3.Откройте файл main.py и замените в строке TOKEN='' на свой токен бота в Telegram
 
