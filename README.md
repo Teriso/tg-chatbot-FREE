@@ -4,19 +4,23 @@
 1. Получите свой токен telegram
 
    
-   ![image](https://github.com/user-attachments/assets/439f7cfa-30dc-406a-91a6-da30184a28ed)
-   ![image](https://github.com/user-attachments/assets/a0213756-7620-44a7-bfbe-9c1edccd1792)
+![image](https://github.com/user-attachments/assets/439f7cfa-30dc-406a-91a6-da30184a28ed)
+![image](https://github.com/user-attachments/assets/a0213756-7620-44a7-bfbe-9c1edccd1792)
 
 2. Загрузите последнюю версию. или клонируйте репозиторий
-'git clone https://github.com/Teriso/tg-chatbot-FREE.git'
+
+`git clone https://github.com/Teriso/tg-chatbot-FREE.git`
 
 3.Откройте файл main.py и замените в строке TOKEN='' на свой токен бота в Telegram
 
-4.Установка зависимостей
-pip install -r requirements.txt
 
+4.Установка зависимостей
+`pip install -r requirements.txt`
+
+---
 
 #### НАЧНИТЕ!
-'Запустите файл main.py'
+`Запустите файл main.py`
+
 
 Если вы видите в командной строке «Бот запущен!», значит, вы всё сделали правильно. Проверьте работу бота в Telegram
