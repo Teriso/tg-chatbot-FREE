@@ -1,0 +1,6 @@
+g4f==0.4.9.2
+deep-translator==1.11.4
+telebot==0.0.5
+python-telegram-bot==13.7
+standard-imghdr==3.13.0
+urllib3==1.26.15
