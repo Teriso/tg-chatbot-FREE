@@ -11,7 +11,7 @@ import os
 logging.basicConfig(level=logging.INFO)
 
 # Токен телеграмм-бота
-TOKEN = '7875614370:AAEt3SMI2ylIQqZKZLpz4BQTr5XIXdA12qA'
+TOKEN = ''
 
 # Выбор модели
 model = "gpt-4"  # выберите модель, которую вы хотите использовать
