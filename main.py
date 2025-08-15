@@ -10,7 +10,7 @@ import os
 # Настройка логирования
 logging.basicConfig(level=logging.INFO)
 
-# Токен телеграмм-бота
+# Токен телеграмм-бот
 TOKEN = ''
 
 # Выбор модели
@@ -182,5 +182,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+
 
 
